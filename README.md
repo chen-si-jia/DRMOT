@@ -10,7 +10,7 @@ If our paper is accepted, we will fully open-source our **DRSet dataset** and **
 
 Thanks for your attention! If you are interested in our work, please give us a star ⭐️.
 
-## 🔍 ReaMOT vs RMOT
+## 🔍 DRMOT vs RMOT
 
 ![](asset/DRMOT.jpg)
 
