@@ -1,8 +1,10 @@
 # 🚀 DRMOT: A Dataset and Framework for RGBD Referring Multi-Object Tracking
 
-> **DRMOT: A Dataset and Framework for RGBD Referring Multi-Object Tracking**              
+> [**DRMOT: A Dataset and Framework for RGBD Referring Multi-Object Tracking**](https://arxiv.org/pdf/2602.04692)              
 > Sijia Chen *, Lijuan Ma *, Yanqiu Yu *, En Yu, Liman Liu, Wenbing Tao   
-> Huazhong University of Science and Technology; South-Central Minzu University                       
+> Huazhong University of Science and Technology; South-Central Minzu University                        
+> *[ArXiv] Paper ([https://arxiv.org/pdf/2602.04692](https://arxiv.org/pdf/2602.04692))*
+
 
 **Note:** 
 
