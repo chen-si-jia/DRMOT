@@ -22,3 +22,13 @@ Thanks for your attention! If you are interested in our work, please give us a s
 
 (b) **DRMOT Success:** By integrating RGB, language (L), and depth (D) information, the DRMOT model leverages depth cues to resolve spatial ambiguity, thereby achieving accurate target grounding and maintaining temporal identity consistency. This comparison demonstrates the necessity of depth information for disambiguating depth-related referring descriptions that are indistinguishable in the 2D image space.
 
+
+## ✏️ Citation
+```
+@article{chen2026drmot,
+  title={DRMOT: A Dataset and Framework for RGBD Referring Multi-Object Tracking},
+  author={Chen, Sijia and Ma, Lijuan and Yu, Yanqiu and Yu, En and Liu, Liman and Tao, Wenbing},
+  journal={arXiv preprint arXiv:2602.04692},
+  year={2026}
+}
+```
