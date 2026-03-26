@@ -8,7 +8,7 @@
 
 **Note:** 
 
-If our paper is accepted, we will fully open-source our **DRSet dataset** and **DRTrack framework** (including its code and model weights) **within one month**, **just like our [**CRMOT**](https://github.com/chen-si-jia/CRMOT) project**.
+Upon acceptance of our paper, we will fully open-source our **DRSet dataset** and **DRTrack framework** (including its code and model weights) **within one month**, **just like our [**CRMOT**](https://github.com/chen-si-jia/CRMOT) project**.
 
 Thanks for your attention! If you are interested in our work, please give us a star ⭐️.
 
